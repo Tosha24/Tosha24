@@ -2,7 +2,7 @@
 
 
 ## ℹ️ About Me:
-🌏 I'm currently residing in India<br>📧 You can contact me through tk.patel.official@gmail.com<br>👩‍💻 I'm currently learning DSA, ReactJS and ML<br>🤝 I'm looking to collaborate on Web development Projects<br>🧠 Open to learn and contribute in ML projects
+🌏 I'm currently residing in India<br>📧 You can contact me through tk.patel.official@gmail.com<br>👩‍💻 I'm currently learning DSA, ReactJS and ML<br>🤝 I'm looking to collaborate on Web development Projects<br>🧠 Open to learn and contribute in ML projects<br>👉 Know more about me [https://portfolio-tosha24.vercel.app/](https://portfolio-tosha24.vercel.app/)
 
 
 ## 🌐 Socials:
